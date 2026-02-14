@@ -17,6 +17,22 @@ I'm **Zain Othman**, a Computer Science graduate transitioning into aerospace ro
 - 📈 Committed to 1-2 year preparation pathway to meet graduate school requirements
 
 ---
+## 🎓 Academic Highlights
+
+### Final Year Project (Research Methodology - 76%)
+**Project Title:** [What was it called?]
+**Description:** [Brief description of what you researched/built]
+**Outcome:** [What did you achieve?]
+**Relevance to Robotics:** [How does this relate to your current goals?]
+
+### Relevant Coursework
+- Artificial Intelligence (70%) - Foundation for autonomous systems
+- Computer Graphics & Vision (67%) - Vision-based navigation
+- Ethical Hacking & Network Defense (74%) - Cybersecurity in robotics
+- Operating Systems (67%) - Real-time systems understanding
+- Research Methodology (76%) - Prepared for graduate research
+
+---
 
 ## 🎯 My "Zero to Hero" Mission
 
