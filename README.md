@@ -1,16 +1,20 @@
 # Aerial Robotics Learning Journey
 
-> My journey from zero to hero in aerial robotics and autonomous systems
-
 ## 👨‍💻 About Me
 
-I'm **Zain Othman**, a Computer Science graduate transitioning into aerospace robotics. This repository documents my learning journey as I work toward pursuing a Master's in Aerospace Engineering at UTIAS (University of Toronto Institute for Aerospace Studies).
+I'm **Zain Othman**, a Computer Science graduate transitioning into aerospace robotics.
 
-**Background:**
-- 🎓 Bachelor's in Computer Science, University of Sulaymaniyah, Iraq (2015)
+**Academic Background:**
+- 🎓 B.Sc. Computer Science, University of Sulaimani, Iraq (2011-2015)
+- 🤖 Strong coursework in AI (70%), Computer Graphics & Vision (67%), Research Methodology (76%)
+- 💻 Specialization in Network Security, Ethical Hacking, and Mobile Development
+- 📊 Final year GPA significantly higher than overall, showing strong finish
+
+**Current Status:**
 - 🍁 Canadian Permanent Resident, based in Toronto
-- 🚁 Self-teaching aerial robotics and autonomous flight systems
-- 🎯 Goal: Master's degree in Aerospace Engineering with focus on aerial robotics
+- 🚁 Self-teaching aerial robotics (ROS, PX4, Gazebo)
+- 🎯 Goal: Master's in Aerospace Engineering at UTIAS with focus on autonomous aerial systems
+- 📈 Committed to 1-2 year preparation pathway to meet graduate school requirements
 
 ---
 
